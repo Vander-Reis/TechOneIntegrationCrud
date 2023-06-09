@@ -31,7 +31,7 @@ sqlite...
 Clone o projeto
 
 ```bash
-  git clone https://github.com/Vander-Reis/ TechOneIntegrationCrud
+  git clone https://github.com/Vander-Reis/TechOneIntegrationCrud
 ```
 
 Entre no diretório do projeto
